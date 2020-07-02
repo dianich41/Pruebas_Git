@@ -1,0 +1,4 @@
+agrear mas campos
+la interfaz
+los triggers
+calcular total
